@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "nom_opcio": "Horario",
+    "tipus_opcio": "checkbox",
+    "contingut": [
+      "Lunes",
+      "Martes",
+      "Miercoles",
+      "Jueves",
+      "Viernes",
+      "Sabado",
+      "Domingo"
+    ],
+    "descripcio_opcio": "Escoge los dias en los que tendras disponibilidad para entrenar"
+  },
+  {
+    "id": 2,
+    "nom_opcio": "Musculo",
+    "tipus_opcio": "checkbox",
+    "contingut": [
+      "Pecho",
+      "Espalda",
+      "Biceps",
+      "Triceps",
+      "Hombros",
+      "Pierna"
+    ],
+    "descripcio_opcio": "En esta opcion deberas escoger que musculos quieras trabajar en la rutina"
+  },
+  {
+    "id": 3,
+    "nom_opcio": "Nivel",
+    "tipus_opcio": "select",
+    "contingut": [
+      "Basico",
+      "Intermedio",
+      "Alto"
+    ],
+    "descripcio_opcio": "Dependera de cuanto deporte hace el usuario habitualmente"
+  },
+  {
+    "id": 4,
+    "nom_opcio": "Tiempo a dedicar",
+    "tipus_opcio": "radio",
+    "contingut": [
+      "1-2h semanales",
+      "3-5h semanales",
+      "+5h semanales"
+    ],
+    "descripcio_opcio": "Horas a la semana que tienes pensado entrenar"
+  }
+]
